@@ -6,3 +6,5 @@ In this repo, we dive deep into using the Mapdeck R library to create dynamic, i
 1️⃣ How to prepare and format texture and elevation data for a seamless 3D terrain map.
 2️⃣ How to integrate NASA FIRMS fire events into your map for a specific location and timeframe.
 3️⃣ Tips for making your maps truly interactive with advanced visualization techniques.
+
+![alt text](https://github.com/milos-agathon/3d-dynamic-fire-maps/blob/main/img/dynamicmap.gif?raw=true)
